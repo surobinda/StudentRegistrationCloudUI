@@ -1,4 +1,4 @@
-package com.surobinda.tutorial.pivotal.cloud.student.registration.ui.studentregistrationcloudui.service;
+package cloud.student.registration.ui.studentregistrationcloudui.service;
 
 import org.junit.Assert;
 import org.junit.Test;

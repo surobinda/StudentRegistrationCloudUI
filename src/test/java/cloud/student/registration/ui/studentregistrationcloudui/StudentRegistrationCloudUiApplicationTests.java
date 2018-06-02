@@ -1,4 +1,4 @@
-package com.surobinda.tutorial.pivotal.cloud.student.registration.ui.studentregistrationcloudui;
+package cloud.student.registration.ui.studentregistrationcloudui;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
