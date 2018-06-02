@@ -1,0 +1,43 @@
+{
+  "name": "studentregistrationcloudui",
+  "version": "1.0.0",
+  "description": "A React based application which will communicate with micro service based services to persists its student registration data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack",
+    "watch": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surobinda/StudentRegistrationCloudUI.git"
+  },
+  "keywords": [
+    "cloud",
+    "react",
+    "spring-boot"
+  ],
+  "author": "Surobinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surobinda/StudentRegistrationCloudUI/issues"
+  },
+  "homepage": "https://github.com/surobinda/StudentRegistrationCloudUI#readme",
+  "dependencies": {
+    "babel-eslint": "^8.2.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "webpack": "^4.8.3",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^4.19.1",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-react": "^7.8.2",
+    "nodemon": "^1.17.5"
+  }
+}
